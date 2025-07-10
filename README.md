@@ -106,7 +106,7 @@ Create a `vae` folder inside your `checkpoints` directory and download the VAE m
 
 ```bash
 # Create the vae directory
-mkdir checkpoints/vae
+mkdir -p checkpoints/vae
 ```
 
 **Manual download steps:**
