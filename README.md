@@ -63,6 +63,10 @@ pip install -r requirements.txt
 
 ## Required Dependencies
 ```
+pip install insightface onnxruntime
+```
+
+```
 diffusers>=0.32.2
 transformers
 huggingface-hub
