@@ -63,7 +63,7 @@ pip install -r requirements.txt
 
 ## Required Dependencies
 ```
-pip install insightface onnxruntime
+pip install insightface onnxruntime "numpy<2"
 ```
 
 ```
